@@ -1,0 +1,4 @@
+opencv-python
+ultralytics
+math
+pip>=21.0.0
